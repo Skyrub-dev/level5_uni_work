@@ -1,0 +1,35 @@
+h1 {
+	color: red;
+	}
+p {
+	font-family: verdana;
+    background-color: paleturquoise;
+		}
+
+.Highlight
+{
+    background-color: yellow;
+}
+
+.firstHeading
+{
+    text-decoration: underline;
+}
+
+ul
+{
+    list-style-type: none;
+}
+
+li a
+{
+    display:block;
+    text-decoration: none;
+    width: 80px;
+    background-color: #bbbbff;
+}
+
+li a:hover
+{
+    background-color: white;
+}
